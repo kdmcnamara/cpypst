@@ -1,0 +1,19 @@
+{
+  "name": "cpypst",
+  "version": "1.0.0",
+  "description": "Track copy history with ease.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdmcnamara/cpypst.git"
+  },
+  "author": "Kevin McNamara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdmcnamara/cpypst/issues"
+  },
+  "homepage": "https://github.com/kdmcnamara/cpypst#readme"
+}
